@@ -10,3 +10,4 @@ And here is some code:
 </script>
 ```
 
+This file needs a footer too. 
