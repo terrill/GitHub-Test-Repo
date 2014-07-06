@@ -5,7 +5,7 @@ And here is some code:
 ```HTML
 <script>
     $(document).ready(function() { 
-      new AblePlayer('audio1');   
+      alert('Hello world!');   
     });
 </script>
 ```
