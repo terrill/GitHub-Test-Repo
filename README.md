@@ -1,4 +1,4 @@
-This simple test displays a Hello World message.
+This somewhat simple test displays a Hello World message.
 
 And here is some code: 
 
