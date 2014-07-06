@@ -10,4 +10,4 @@ And here is the code:
 </script>
 ```
 
-This file needs a footer too. 
+Copyright 2014 by Terrill Thompson. Some rights reserved.
