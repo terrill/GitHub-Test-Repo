@@ -10,4 +10,4 @@ And here is the code:
 </script>
 ```
 
-Copyright 2014 by Terrill Francis Thompson. Some rights reserved.
+Copyright 2014 by Terrill Francis Thompson and ttwin. Some rights reserved.
