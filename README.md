@@ -10,3 +10,4 @@ And here is some code:
 </script>
 ```
 
+Copyright 2014 by ttwin.  
